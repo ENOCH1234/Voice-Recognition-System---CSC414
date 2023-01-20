@@ -1,4 +1,8 @@
-# User-Authentication-using-Voice-Recognition
+# Voice Recognition Authentication System - CSC 414
+
+## A project by Computer Science Students, Adekunle Ajasin University (400L - 2020/2021 Academic Session)
+
+### Course Lecturer - Dr. Fola Aranuwa
 
 Voice Recognition is used to recognize a speaker's voice through his/her pitch and Frequency.
 We aim to recognize a speaker at real-time. We use two modules – feature extraction and codebook generation.
